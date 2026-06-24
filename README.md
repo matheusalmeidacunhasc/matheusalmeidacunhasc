@@ -42,9 +42,8 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusalmeidacunhasc&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalmeidacunhasc&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusalmeidacunhasc&show_icons=true&theme=tokyonight&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalmeidacunhasc&layout=compact&theme=tokyonight&count_private=false)
 
 ---
 
