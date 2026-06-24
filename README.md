@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/matheusalmeidacunhasc/matheusalmeidacunhasc/blob/main/images/1781037561997.jpg" alt="Banner do meu perfil" width="100%">
+</p>
+
 # 👨‍💻 Olá, eu sou Matheus Almeida!
 
 💻 Profissional de TI focado em Suporte Técnico, Redes e Infraestrutura  
