@@ -35,9 +35,9 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusalmeidacunhasc&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalmeidacunhasc&layout=compact&theme=tokyonight)
 
 ---
 
@@ -56,6 +56,6 @@ Scripts Bash para automação de backup e agendamento com cron.
 
 ## 📫 Contato
 
-📧 Email: seuemail@email.com  
-💼 LinkedIn: seu-linkedin  
-📍 Brasil
+📧 Email: mathalmeidacunha@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/matheusalmeidati/ 
+📍 Goiás (Brasil)
